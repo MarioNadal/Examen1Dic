@@ -36,7 +36,7 @@ fun MainScreen(navController: NavHostController) {
     Scaffold(
         topBar = {
             CenterAlignedTopAppBar(
-                title = { Text(text = "Eventos") },
+                title = { Text(text = "Dormir") },
                 colors = TopAppBarDefaults.centerAlignedTopAppBarColors(
                     containerColor = MaterialTheme.colorScheme.primaryContainer,
                     titleContentColor = MaterialTheme.colorScheme.primary
